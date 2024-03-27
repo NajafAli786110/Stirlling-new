@@ -14,18 +14,18 @@ export default function Reviews() {
                                 <p>"Stirling Grady's baby photography is simply magical. He has a special talent for capturing those fleeting moments of childhood joy and innocence. Our photos are absolutely stunning, and we will treasure them for years to come."</p>
                                 <h4> Emily R.</h4>
                             </div>
-                            <Image src={SecimgMain} width={150} />
+                            {/* <Image src={SecimgMain} width={150} /> */}
                         </div>
-                        <Image src={imgMain} height={100} width={100} alt='Hello World'/>
+                        {/* <Image src={imgMain} height={100} width={100} alt='Hello World'/> */}
                     </div>
                     <div className='flex flex-col gap-4'>
-                        <Image src={imgMain} height={100} width={100} />
+                        {/* <Image src={imgMain} height={100} width={100} /> */}
                         <div className='flex items-start justify-center gap-8'>
                             <div className="text flex flex-col gap-4">
                                 <p>"Stirling Grady's baby photography is simply magical. He has a special talent for capturing those fleeting moments of childhood joy and innocence. Our photos are absolutely stunning, and we will treasure them for years to come."</p>
                                 <h4> Emily R.</h4>
                             </div>
-                            <Image src={SecimgMain} width={150} />
+                            {/* <Image src={SecimgMain} width={150} /> */}
                         </div>
                     </div>
                 </div>

@@ -11,19 +11,19 @@ export default function Services() {
                     <div className="flex flex-col gap-4">
                         <h4 className="uppercase font-bold">baby photography</h4>
                         <p> Capturing the innocence and wonder of your little ones, creating timeless memories you'll cherish forever.</p>
-                        <Image src={imgMain} width={253} height={154} />
+                        {/* <Image src={imgMain} width={253} height={154} /> */}
                         <Link href="/" className="secondary-btn">Book Now</Link>
                     </div>
                     <div className="flex flex-col gap-4">
                         <h4 className="uppercase font-bold">baby photography</h4>
                         <p> Capturing the innocence and wonder of your little ones, creating timeless memories you'll cherish forever.</p>
-                        <Image src={imgMain} width={253} height={154} />
+                        {/* <Image src={imgMain} width={253} height={154} /> */}
                         <Link href="/" className="secondary-btn">Book Now</Link>
                     </div>
                     <div className="flex flex-col gap-4">
                         <h4 className="uppercase font-bold">baby photography</h4>
                         <p> Capturing the innocence and wonder of your little ones, creating timeless memories you'll cherish forever.</p>
-                        <Image src={imgMain} width={253} height={154} />
+                        {/* <Image src={imgMain} width={253} height={154} /> */}
                         <Link href="/" className="secondary-btn">Book Now</Link>
                     </div>
                 </div>

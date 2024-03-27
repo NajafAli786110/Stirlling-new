@@ -15,8 +15,8 @@ export default function About() {
           <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ratione doloremque aspernatur molestias sit culpa quis rem amet, ipsam numquam excepturi.</p>
         </div>
         <div className='flex gap-2 overflow-hidden'>
-          <Image src={imgMain} width={275} height={185} />
-          <Image src={imgMain} width={200} height={200} />
+          {/* <Image src={imgMain} width={275} height={185} />
+          <Image src={imgMain} width={200} height={200} /> */}
         </div>
       </div>
     </div>
