@@ -6,7 +6,7 @@ export default function Footer() {
         <div className="py-12 w-[90%] flex flex-col items-start justify-start border-t-[1] border-gray-300">
             <div className="w-full flex items-center justify-center gap-12">
                 <div className="w-[50%]">
-                    {/* <Image src={imgMain} height={100} width={100} /> */}
+                    <Image src={imgMain} height={100} width={100} alt='Website Image'/>
                 </div>
                 <div className="w-[50%] flex flex-col gap-4">
                     <h3 className="text-[20px] uppercase font-bold ">stirlinggradyphotography</h3>
